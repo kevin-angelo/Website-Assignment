@@ -1,0 +1,31 @@
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #206BE0;
+    background-image: -webkit-linear-gradient(270deg,rgba(32,107,224,1.00) 0%,rgba(32,107,224,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(32,107,224,1.00) 0%,rgba(32,107,224,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(32,107,224,1.00) 0%,rgba(32,107,224,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(32,107,224,1.00) 0%,rgba(32,107,224,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #F8F7F7;
+}
+.container-fluid .container .row {
+    background-color: #206BE0;
+}
+.container-fluid {
+    background-color: #98BFFD;
+}
+.container #accordion1 .card {
+    background-color: #206BE0;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #206BE0;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #3483FF;
+}
+#headingOne1 .mb-0 a {
+    color: #FDFDFD;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
